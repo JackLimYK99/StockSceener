@@ -1,0 +1,26 @@
+# IDE
+*.iml
+.idea/
+.idea/*
+
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Local configuration files
+local.properties
+*.keystore
+
+# OS-specific
+.DS_Store
+
+# Android NDK / CMake
+.cxx/
+.externalNativeBuild/
+
+# Captures (screenshots, screen recordings)
+captures/
+
+# Auto-generated files
+generated/
