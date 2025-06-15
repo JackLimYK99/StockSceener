@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  Margin  -->
+    <dimen name="margin_hor_xs">4dp</dimen>
+    <dimen name="margin_hor_s">8dp</dimen>
+    <dimen name="margin_hor_m">16dp</dimen>
+    <dimen name="margin_hor_l">24dp</dimen>
+    <dimen name="margin_hor_xl">36dp</dimen>
+
+    <dimen name="margin_ver_xs">2dp</dimen>
+    <dimen name="margin_ver_s">4dp</dimen>
+    <dimen name="margin_ver_m">8dp</dimen>
+    <dimen name="margin_ver_l">16dp</dimen>
+    <dimen name="margin_ver_xl">24dp</dimen>
+
+    <!--  Padding  -->
+    <dimen name="padding_hor_xs">4dp</dimen>
+    <dimen name="padding_hor_s">8dp</dimen>
+    <dimen name="padding_hor_m">16dp</dimen>
+    <dimen name="padding_hor_l">24dp</dimen>
+    <dimen name="padding_hor_xl">36dp</dimen>
+
+    <dimen name="padding_ver_xs">2dp</dimen>
+    <dimen name="padding_ver_s">4dp</dimen>
+    <dimen name="padding_ver_m">8dp</dimen>
+    <dimen name="padding_ver_l">16dp</dimen>
+    <dimen name="padding_ver_xl">24dp</dimen>
+
+    <!--  Radius  -->
+    <dimen name="radius_card">12dp</dimen>
+
+    <!--  Elevation  -->
+    <dimen name="elevation_card">6dp</dimen>
+
+    <!--  Text  -->
+    <dimen name="text_caption">12sp</dimen>
+    <dimen name="text_content">16sp</dimen>
+    <dimen name="text_title">20sp</dimen>
+    <dimen name="text_subtitle">18sp</dimen>
+
+    <!--  Icon  -->
+    <dimen name="icon_favorite">25dp</dimen>
+    <dimen name="icon_logo">50dp</dimen>
+</resources>

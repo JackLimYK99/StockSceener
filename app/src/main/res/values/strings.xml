@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">StockScreener</string>
+    <string name="app_name">Stock Screener</string>
+
+    <string name="version">Version : %s</string>
+    <string name="company">(%s) %s</string>
+    <string name="price">%s %s</string>
+    <string name="change">%s (%s %%)</string>
+
+    <string name="hint_search">Search…</string>
 </resources>
